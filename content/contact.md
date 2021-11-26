@@ -3,4 +3,5 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+Email Me: monitor[at]gwilliams94.co.uk\
+Twitter: @ThisGeekTweets

@@ -1,25 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Gary Williams, DevOps Engineer, Cloud Consultant"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**Profile**\
+A competent and professional DevOps Engineer with an experienced background in both on premise and cloud (AWS, Azure) technologies, both Windows and Linux. I enjoy working within Agile Software Development environments, enabling product teams build and release software faster, building the tooling and infrastructure that they need, without impacting service quality, reliability and security.
 
-Hugo makes use of a variety of open source projects including:
+Outside of work I am an active member of the Linux/FOSS community, attending events across Europe and the US as well as balancing the occasional podcast appearance with seemingly endless DIY projects and car repairs!
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+**Skills and Expertise**\
+***Cloud Architecture*** – Proven experience in architecting and building cost effective and resilient cloud solutions across Amazon AWS and Microsoft Azure. A passion for making use of cloud providers as a platform and not just another place to run virtual machines, ensuring cost, scale, business fit and security are all taken into account
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+***Communication*** – A track record of coming up with solutions to and explaining problems to colleagues in a way that they can understand has meant that I have become a ‘go-to’ engineer in a number of roles for mentoring and explaining complex technical solutions to non-technical stakeholders
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+***Systems Administration*** – My previous roles have seen me managing, migrating and maintaining large numbers of both Windows and Linux servers, working with technologies such as ADDS, RDS, WSUS, SCCM, SQL Server, Hyper-V, LAMP, HAProxy, MySQL/pSQL, Redis, MongoDB, Samba and LDAP to name a few. This has included P2V migrations, global rollouts and managing distributed systems scaling across the globe from the US, to Europe, to Asia and Australia
