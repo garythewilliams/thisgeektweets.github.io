@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Gary Williams"
 description = "Gary Williams' Personal Site"
 keywords = "blog,devops engineer,personal"
-info = ["FOSS Advocate.", "DevOps Engineer.", "Works at 'Some Cloud Provider'."]
+info = ["FOSS Advocate.", "Former DevOps Engineer.", "Works at 'Some Cloud Provider'.", "On-air @ Linux After Dark."]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -88,6 +88,12 @@ name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/gwilliams94/"
+
+[[params.social]]
+name = "Podcast"
+icon = "fa fa-2x fa-podcast"
+weight = 5
+url = "https://linuxafterdark.net/"
 
 #[[params.social]]
 #name = "Medium"
