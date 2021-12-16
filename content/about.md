@@ -6,7 +6,7 @@ description = "Gary Williams, DevOps Engineer, Cloud Consultant"
 **Profile**\
 A competent and professional DevOps Engineer with an experienced background in both on premise and cloud (AWS, Azure) technologies, both Windows and Linux. I enjoy working within Agile Software Development environments, enabling product teams build and release software faster, building the tooling and infrastructure that they need, without impacting service quality, reliability and security.
 
-Outside of work I am an active member of the Linux/FOSS community, attending events across Europe and the US as well as balancing the occasional podcast appearance with seemingly endless DIY projects and car repairs!
+Outside of work I am an active member of the Linux/FOSS community, a co-host of the Linux After Dark Podcast (linuxafterdark.net), and regularly attend events across Europe and the US.
 
 **Skills and Expertise**\
 ***Cloud Architecture*** – Proven experience in architecting and building cost effective and resilient cloud solutions across Amazon AWS and Microsoft Azure. A passion for making use of cloud providers as a platform and not just another place to run virtual machines, ensuring cost, scale, business fit and security are all taken into account
