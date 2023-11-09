@@ -78,10 +78,10 @@ url = "https://github.com/thisgeektweets/"
 #url = "https://gitlab.com/johndoe/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/thisgeektweets/"
+name = "Mastodon"
+icon = "fa fa-2x fa-mastodon"
+weight = 5
+url = "https://mastodon.social/@thisgeektweets"
 
 [[params.social]]
 name = "LinkedIn"
