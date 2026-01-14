@@ -62,7 +62,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Gary Williams"
   name = "Gary Williams"
-  description = "Christian. Cloud Professional. Production Lead. Podcast Host. Event Organiser."
+  description = "Cloud Professional. Production Lead. Podcast Host. Event Organiser. Christian."
 
 # Allow to override webmanifest options
 [params.webmanifest]
